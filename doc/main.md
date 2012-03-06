@@ -1,2 +1,3 @@
-The main module is a program that creates a widget.  When a user clicks on
-the widget, the program loads the mozilla.org website in a new tab.
+This is a basic AMEE plugin for Firefox.
+
+Highlight a phrase, and this plugin will pipe it through Ask AMEE to find the most relevant result possible. That's all for now!

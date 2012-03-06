@@ -1,8 +1,9 @@
 {
-  "name": "wikipanel",
-  "fullName": "wikipanel",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+    "name": "wikipanel", 
+    "license": "MPL 2.0", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "wikipanel", 
+    "id": "jid1-wduAkwXNRtOrug", 
+    "description": "a basic add-on"
 }
